@@ -1,4 +1,5 @@
-
+HTML
+ </head></head>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +10,7 @@
 <body>
 Hello World
 </body>
-    </html> https://httpsrathanaphon.com.in/
+    </html> https://httpsrathanaphonwdesite.co.in/
    HTMLpage 
      
      rathanaphon29@gmail.com
@@ -33,7 +34,7 @@ Then, copy the tag below and paste it between the body tags (<body></body>) of a
  SDK      c++
        (<project>)/build.gradle):
        
-https://rathanaphonwebsiteco.
+https://rathanaphonwebsite.co.in
  buidscipt {
     reposteoriee {
     // check that. you have following link (if not,add if):
@@ -48,7 +49,7 @@ https://rathanaphonwebsiteco.
 }
 
 allproject  {
-...https://rathanaphonwebsiteco.
+...https://rathanaphonwebsiteco.in
  buidscipt {
     reposteoriee {
     // check that. you have following link (if not,add if):
@@ -378,7 +379,7 @@ Then, copy the tag below and paste it between the body tags (<body></body>) of a
  SDK      c++
        (<project>)/build.gradle):
        
-https://rathanaphonwebsiteco.googlee9c9e70123469956.html
+https://rathanaphonwebsiteco.in id:googlee9c9e70123469956.html
   <body/>
 </body>
 dependencies {
