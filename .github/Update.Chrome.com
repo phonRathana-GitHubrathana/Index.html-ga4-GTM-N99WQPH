@@ -10,7 +10,7 @@ HTML
 <body>
 Hello World
 </body>
-    </html> https://httpsrathanaphonwdesite.co.in/
+    </html> https://httpsrathanaphon.wdesite.co.in
    HTMLpage 
      
      rathanaphon29@gmail.com
@@ -257,7 +257,7 @@ https://rathanaphon.websites.co.in", "http://www.youtube.com/@rathanaphon29"
   ]
   "priceRange": "$$$",
 
-"telephone":"+855085883923",
+"telephone":"
 
 "logo": {
 
@@ -379,7 +379,7 @@ Then, copy the tag below and paste it between the body tags (<body></body>) of a
  SDK      c++
        (<project>)/build.gradle):
        
-https://rathanaphonwebsiteco.in id:googlee9c9e70123469956.html
+https://rathanaphonwebsiteco.in
   <body/>
 </body>
 dependencies {
@@ -410,3 +410,4 @@ dependencies {
 
   gtag('config', 'GT-WFMRKFW');
 </script>
+id:googlee9c9e70123469956.html
