@@ -1,0 +1,34 @@
+HTML 
+<!DOCTYPE html>
+  <html lang="en">
+    <head><footer></footer>
+  </head><haed>
+         </head><haed>
+              ( hello the world )
+  "type": "service_account",
+  "project_id": "httpsrathanaphonwebsitcoin",
+  "private_key_id": "bcf1f08482fb71b25e68ebd621f81de408b5b5a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=GT-WFMRKFW"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+  gtag('config', 'GT-WFMRKFW');
+
+</script>
+  <<-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xs2yk@httpsrathanaphonwebsitcoin.iam.gserviceaccount.com",
+  "client_id": "104691252105944912323",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xs2yk%40httpsrathanaphonwebsitcoin.iam.gserviceaccount.com"
+}
